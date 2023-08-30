@@ -35,6 +35,18 @@ To minimise the impact of such changes, we undertake to list the :title:`API` ch
    The changes listed below only affects *existing* :title:`APIs`.
 
 
+Changes from 1.22 to 1.23
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The PDF Form API function `pdf_field_name` has been renamed to `pdf_load_field_name`.
+
+
+Changes from 1.21 to 1.22
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+
 Changes from 1.20 to 1.21
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
