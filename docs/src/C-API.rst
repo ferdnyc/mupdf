@@ -17,7 +17,7 @@ This is the :title:`MuPDF` :title:`C` API guide for developers. In this document
 
 We will be explaining the basics, enough to get you started on a single threaded application. There are more functions and data structures used internally, and there are also ways to use :title:`MuPDF` from multiple threads, but those are beyond the scope of this document.
 
-The functions and structures documented in this document are what we consider stable :title:`APIs`. They will rarely change, and if they do, any such changes will be noted in the "api-changes" document along with instructions for how to update your code.
+The functions and structures documented in this document are what we consider stable :title:`APIs`. They will rarely change, and if they do, any such changes will be noted in the :title:`Changes` document along with instructions for how to update your code.
 
 
 
